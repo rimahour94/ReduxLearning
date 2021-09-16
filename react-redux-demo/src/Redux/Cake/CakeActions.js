@@ -1,5 +1,5 @@
 import { BUY_CAKE } from "./cakeTypes"
-export const CakeActions = () => {
+export const buyCake = () => {
     return {
         type: BUY_CAKE
     }

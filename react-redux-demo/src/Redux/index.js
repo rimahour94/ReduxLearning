@@ -1,1 +1,1 @@
-export { CakeActions } from "./Cake/CakeActions";
+export { buyCake } from "./cake/cakeActions";
